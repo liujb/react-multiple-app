@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onBtnClick"
-            android:text="页面1"/>
+            android:text="RN APP1"/>
 
         <Button
             android:id="@+id/btn_test_rn_2"
@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onBtnClick"
-            android:text="页面2"/>
+            android:text="RN APP2"/>
 
 
     </LinearLayout>

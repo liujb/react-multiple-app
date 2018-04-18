@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d220260d9cb6191e6ee45aa128fdf9a93dfb9952.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -21,12 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ebe6f62e2c66deadf8944c1239c9455c8b1897da.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e1627485c1e13b21414fa804b9e7e01b91491633.jar" />
     </item>
     <item
         is-multidex="false"
@@ -36,24 +27,6 @@
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
         <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ba7fe66023888bfe5f16b2eee3f08d4b73adecab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.0_d824cb5cb09920c0591a173b589962be1440673c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_12d9af19953a73d6a4533087f53f5c030330886c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,21 +48,75 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_20c79f055fd7cb6b22b75011e19c465d63880317.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5928f8b139bb7d6234bf1b33dc14d757e177bc07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d35800be23c54560ebfb0707013d8860c83a5958">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.0_6d394137fbd385e650a8392a733ad09cc43ee893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1cc5babb6f52708d38c89548be9c2b91cf21d838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e1e7a841ae7ef8957495028a0440908bbdb1ab3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_770960af57a03f993704f0e48f1310af5cd1b6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d220260d9cb6191e6ee45aa128fdf9a93dfb9952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ebe6f62e2c66deadf8944c1239c9455c8b1897da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_20c79f055fd7cb6b22b75011e19c465d63880317.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,30 +147,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1cc5babb6f52708d38c89548be9c2b91cf21d838.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
         <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_49a8a547ee764eaf8b5aa5e0ed27475126beef82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e1e7a841ae7ef8957495028a0440908bbdb1ab3f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -171,15 +180,6 @@
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
         <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_b8ddbb74681ad670b0b1352d867de0af32325e94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_770960af57a03f993704f0e48f1310af5cd1b6d1.jar" />
     </item>
     <item
         is-multidex="false"

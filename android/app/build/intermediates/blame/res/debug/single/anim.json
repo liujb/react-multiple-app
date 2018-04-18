@@ -1,11 +1,11 @@
 [
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -21,7 +21,7 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
@@ -33,7 +33,7 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
@@ -45,11 +45,11 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",

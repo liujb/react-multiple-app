@@ -13,7 +13,7 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/layout/dev_loading_view.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -33,7 +33,7 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/layout/redbox_item_title.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/layout/redbox_item_frame.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -97,11 +97,11 @@
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/layout/fps_view.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/layout/redbox_view.xml"
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",

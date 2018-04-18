@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/didi/Code/App/react-multiple-app/react-multiple-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png",

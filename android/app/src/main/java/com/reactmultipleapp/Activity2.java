@@ -24,7 +24,7 @@ public class Activity2 extends Activity {
                 .setInitialLifecycleState(LifecycleState.RESUMED)
                 .build();
 
-        mReactRootView.startReactApplication(mReactInstanceManager, "app1", null);
+        mReactRootView.startReactApplication(mReactInstanceManager, "app2", null);
         setContentView(mReactRootView);
     }
 }
